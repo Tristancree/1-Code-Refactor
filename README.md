@@ -1,10 +1,28 @@
-# 1-Code-Refactor
+# Pete's Horiseon
 
-# Link
-http://github.com - automatic!
-[GitHub](https://iamtristanjackson.github.io/1-Code-Refactor/)
-Added another CSS style sheet "FileReset.css"
+# <h2> Live Link
+https://iamtristanjackson.github.io/1-Code-Refactor/
 
-## Fixed hearder links 
+# <h2> Contributer
+@iamtristanjackson
 
-## Changed the git
+# <h2> Tecnology Stack
+
+* HTML
+* CSS
+
+# <h2> About
+Marketing website, that I had to transformed into an accessible working site.
+
+# <h2> License
+MIT
+
+# <h2> Contact
+
+* Name: Tristan Jackson (@iamtristanjackson)
+
+* Webpage: https://iamtristanjackson.com
+
+* Email: tristancree@icloud.com
+
+* Linkden: https://linkden.com/in/iamtristanjackson
