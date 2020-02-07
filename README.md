@@ -1,4 +1,4 @@
-# Pete's Horiseon
+# Horiseon Marketing Website 
 # <h2> Live Link
 https://iamtristanjackson.github.io/1-Code-Refactor/
 
