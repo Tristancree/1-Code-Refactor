@@ -11,7 +11,7 @@ https://iamtristanjackson.github.io/1-Code-Refactor/
 * CSS
 
 # <h2> About
-Marketing website, that I had to transformed into an accessible working site.
+Marketing website, that I had to transform it into an accessible working site.
 
 # <h2> License
 MIT
