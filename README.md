@@ -1,5 +1,4 @@
 # Pete's Horiseon
-
 # <h2> Live Link
 https://iamtristanjackson.github.io/1-Code-Refactor/
 
